@@ -1,5 +1,5 @@
-.gradle/
-.idea/
+gradle/
+idea/
 db-api-for-docker.jar
 docker-ensure-initdb.sh
 docker-entrypoint.sh
